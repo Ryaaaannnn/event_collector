@@ -77,9 +77,9 @@ const TicketCard = ({ ticket, index }) => {
                 alignItems: 'center',
                 justifyContent: 'space-between'
             }}>
-                <div style={{ width: '12px', height: '24px', background: 'transpatent', borderRadius: '0 12px 12px 0', border: '1px solid transparent', boxShadow: 'inset -2px 0 5px rgba(0,0,0,0.5)', background: 'var(--bg-secondary)', marginTop: '-12px' }} />
+                <div style={{ width: '12px', height: '24px', borderRadius: '0 12px 12px 0', border: '1px solid transparent', boxShadow: 'inset -2px 0 5px rgba(0,0,0,0.5)', background: 'var(--bg-secondary)', marginTop: '-12px' }} />
                 <div style={{ flex: 1, borderTop: '2px dashed rgba(255,255,255,0.1)' }} />
-                <div style={{ width: '12px', height: '24px', background: 'transpatent', borderRadius: '12px 0 0 12px', border: '1px solid transparent', boxShadow: 'inset 2px 0 5px rgba(0,0,0,0.5)', background: 'var(--bg-secondary)', marginTop: '-12px' }} />
+                <div style={{ width: '12px', height: '24px', borderRadius: '12px 0 0 12px', border: '1px solid transparent', boxShadow: 'inset 2px 0 5px rgba(0,0,0,0.5)', background: 'var(--bg-secondary)', marginTop: '-12px' }} />
             </div>
 
             {/* Stub / Barcode Area */}
