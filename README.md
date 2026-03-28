@@ -12,8 +12,8 @@
 因此，處理單一事件資料的總時間複雜度可表示為 $$O(P + L)$$。
 
 ## ⚡ Quick Start
-    ```bash
-    1. 安裝依賴：在專案根目錄下執行 `npm install` 或 `yarn install`。
+```bash
+1. 安裝依賴：在專案根目錄下執行 `npm install` 或 `yarn install`。
 2. 啟動開發伺服器：執行 `npm run dev`，應用程式將在 `http://localhost:5173` 啟動。
 3. 建構生產版本：執行 `npm run build` 以生成用於部署的優化程式碼。
 4. 程式碼檢查：執行 `npm run lint` 進行程式碼風格檢查。
